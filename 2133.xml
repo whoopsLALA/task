@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ANSI"?>
+<!DOCTYPE Library SYSTEM "2133.dtd">
+<Library>
+<Book BookId="a11501">
+	<Title>XML</Title>
+	<Author>韩寒</Author>
+	<Price>25yuan</Price>
+	<Publisher>xiangguo</Publisher>
+</Book>
+<Member>
+	<Name>
+		<FirstName>Guo</FirstName>
+		<MiddleName>Jing</MiddleName>
+		<LastName>Ming</LastName>
+	</Name>
+	<Address>
+		<HouseNumber>302</HouseNumber>
+		<Street>北京中路</Street>
+		<City>Jinzhou</City>
+	</Address>
+</Member>
+</Library>
